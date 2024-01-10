@@ -1,4 +1,4 @@
-let message : string = "Hello World!"
-let message2 : string = "This is my first time using TypeScript"
+let first : string = "Hello World!"
+let second : string = "This is my first time using TypeScript"
 
-console.log(message, message2)
+console.log(first, second)
